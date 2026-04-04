@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "products": [
+    {
+      "name": "Z Om Bi Es Ur Vi Va L - Starter",
+      "description": "Starter plan for Z Om Bi Es Ur Vi Va L",
+      "prices": [{"currency": "usd", "unit_amount": 900, "recurring": {"interval": "month"}}]
+    },
+    {
+      "name": "Z Om Bi Es Ur Vi Va L - Pro",
+      "description": "Pro plan for Z Om Bi Es Ur Vi Va L",
+      "prices": [{"currency": "usd", "unit_amount": 2900, "recurring": {"interval": "month"}}]
+    }
+  ]
+}
